@@ -1,2 +1,3 @@
 clone the repositary
-run the class
+open the project in eclipse
+run interview123.TestClass as Java project
